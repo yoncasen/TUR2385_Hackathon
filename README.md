@@ -5,3 +5,6 @@
 
 ## Projemin Türü:
 > Yapay Zeka ve Discord
+
+## Umut Update
+> Hello Yonca
